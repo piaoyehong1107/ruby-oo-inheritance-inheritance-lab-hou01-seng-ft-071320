@@ -10,7 +10,7 @@ def learn (string)
 end
 
 def knowledge
-  self.knowledge
+  rturn self.knowledge
 end
 
 end
