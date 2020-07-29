@@ -9,5 +9,7 @@ def learn (string)
   @knowledge.push(string)
 end
 
-def 
+def knowledge
+
+end
 end
